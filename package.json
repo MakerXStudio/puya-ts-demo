@@ -12,6 +12,7 @@
     "@algorandfoundation/algorand-typescript": "^0.0.1-alpha.10",
     "@algorandfoundation/algorand-typescript-testing": "^1.0.0-alpha.4",
     "@algorandfoundation/puya-ts": "^1.0.0-alpha.18",
+    "@algorandfoundation/tealscript": "^0.103.1",
     "@rollup/plugin-typescript": "^12.1.0",
     "@tsconfig/node20": "^20.1.4",
     "prettier": "^3.3.3"
